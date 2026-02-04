@@ -1,0 +1,36 @@
+# Simulation temporary files
+*.vcd
+*.fsdb
+*.wlf
+simv
+simv.daidir/
+csrc/
+work/
+nWaveLog/
+dat/
+dat_univ/
+
+# Tool temporary files
+*.svf
+*.cr.mti
+*.mpf
+*.bak
+transcript
+command.log
+ucli.key
+novas.*
+report.000*
+default.svf
+
+# Keep these files
+!*.v
+!*.sv
+!*.ddc
+!*.sdf
+!*.sdc
+!*.tcl
+!*.f
+!*.cmd
+!*.setup
+!*.dat
+!*.pdf
