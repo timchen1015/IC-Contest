@@ -11,6 +11,9 @@ IC Contest Practice Solutions
 - **2021** - Geofence
 - **2022** - Jogging Analysis Machine (JAM)
 
+## Graduate
+- **2020** - String Machine Engine (SME)
+
 ## File Descriptions
 
 - `*.v` - Verilog source code
